@@ -23,3 +23,4 @@ RUN chmod +x /app/scripts/update_feeds.sh /app/scripts/entrypoint.sh
 EXPOSE 8000
 
 ENTRYPOINT ["/app/scripts/entrypoint.sh"]
+
